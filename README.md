@@ -1,2 +1,2 @@
-# Leela
-This is first repository.
+# ECOMMERCE WEBSITE
+The website displays products. Users has to sign up to add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing. Design and Implement a mock-up version of an E-Commerce website. The project uses Python and CGI to generate web pages. Cookies are used to store and persist data. Basic login / logout functionality is implemented via Python’s cgi and Cookie modules. Web pages and static files are served with Apache.
